@@ -2,6 +2,8 @@
 
 This repository was created as part of a class I'm taking with Alta3 Research. As the title suggests, I'm just starting with Python.  I'm leaving the template below intact for the sake of time, so no need to read further.
 
+I added this line as part of a version control lesson.
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine
