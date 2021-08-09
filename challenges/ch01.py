@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #NDE CHALLENGE #1 - Print
 
 #Set the following variables
