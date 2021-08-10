@@ -18,7 +18,7 @@ elif speed > 73:
     category = "One"
 else:
     print("You are not currently experiencing a hurricane.  Congratulations!")
-    exit() #kill the script to avoid error when {category} isn't defined in final print statement 
+    exit() #kill the script to avoid error when {category} isn't defined in final print function 
 
 #output answer to user with previously defined category
 print(f"You are currently experiencing a Category {category} Hurricane. Seek immediate shelter.")
