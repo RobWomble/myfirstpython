@@ -9,4 +9,4 @@ pets = {"cats": ["fluffy", "snowball", "garfield"], "dogs": ["toto", "kujo", "sp
 
 # I have the {cats} {fluffy}, {snowball}, and {garfield}, and the {dogs} {toto}, {kujo}, and {spot}.
 
-print(f"I have the {pets.keys()[0]} {pets['cats'][0]}, {pets['cats'][1]}, and  {pets['cats'][2]")
+print(f"I have the {list(pets.keys())[0]} {pets['cats'][0]}, {pets['cats'][1]}, and  {pets['cats'][2]}, and the {list(pets.keys())[1]} {pets['dogs'][0]}, {pets['dogs'][1]}, and {pets['dogs'][2]}")
