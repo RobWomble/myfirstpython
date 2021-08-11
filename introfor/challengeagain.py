@@ -8,5 +8,5 @@ farms = [{"name": "NE Farm", "agriculture": ["sheep", "cows", "pigs", "chickens"
          {"name": "SE Farm", "agriculture": ["chickens", "carrots", "celery"]}]
 
 for farm in farms:  #iterate each dictionary
-    item = ", ".join(farm["agriculture"])
-    print(f"{farm['name']} produces the following: {item}")
+    item = ", ".join(farm["agriculture"]) #change list to useable string
+    print(f"{farm['name']} produces the following: {item}") #disply which items are at each farm
