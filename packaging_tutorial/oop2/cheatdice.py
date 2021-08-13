@@ -9,9 +9,9 @@ class Player:
     def __init__(self):
         self.dice = []
 
-    def roll(self, dice_num):
+    def roll(self):
         self.dice = [] # clears current dice
-        for i in range(int(dice_num)):  # make 3 rolls
+        for i in range(int(3)):  # make 3 rolls
             self.dice.append(randint(1,6))   # 1 to 6 inclusive
 
     def get_dice(self): # returns the dice rolls

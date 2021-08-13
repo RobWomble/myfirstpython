@@ -12,9 +12,8 @@ def main():
     cheater2 = Cheat_Loaded_Dice() # increase all rolls by +1 provided they are < 6 
 
     # both players take turns, after determining amount to roll
-    roll_num = int(input("Enter number of dice to roll: "))
-    cheater1.roll(roll_num) 
-    cheater2.roll(roll_num)
+    cheater1.roll() 
+    cheater2.roll()
 
     # both players use their cheat methods
     cheater1.cheat()
