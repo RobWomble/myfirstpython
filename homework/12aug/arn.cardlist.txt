@@ -1,0 +1,584 @@
+Name: Abu Ja'far
+Combined mana cost: 1.0
+Type: ['Creature']
+Text: When Abu Ja'far dies, destroy all creatures blocking or blocked by it. They can't be regenerated.
+
+
+Name: Army of Allah
+Combined mana cost: 3.0
+Type: ['Instant']
+Text: Attacking creatures get +2/+0 until end of turn.
+
+
+Name: Eye for an Eye
+Combined mana cost: 2.0
+Type: ['Instant']
+Text: The next time a source of your choice would deal damage to you this turn, instead that source deals that much damage to you and Eye for an Eye deals that much damage to that source's controller.
+
+
+Name: Jihad
+Combined mana cost: 3.0
+Type: ['Enchantment']
+Text: As Jihad enters the battlefield, choose a color and an opponent.
+White creatures get +2/+1 as long as the chosen player controls a nontoken permanent of the chosen color.
+When the chosen player controls no nontoken permanents of the chosen color, sacrifice Jihad.
+
+
+Name: King Suleiman
+Combined mana cost: 2.0
+Type: ['Creature']
+Text: {T}: Destroy target Djinn or Efreet.
+
+
+Name: Moorish Cavalry
+Combined mana cost: 4.0
+Type: ['Creature']
+Text: Trample
+
+
+Name: Piety
+Combined mana cost: 3.0
+Type: ['Instant']
+Text: Blocking creatures get +0/+3 until end of turn.
+
+
+Name: Repentant Blacksmith
+Combined mana cost: 2.0
+Type: ['Creature']
+Text: Protection from red
+
+
+Name: Shahrazad
+Combined mana cost: 2.0
+Type: ['Sorcery']
+Text: Players play a Magic subgame, using their libraries as their decks. Each player who doesn't win the subgame loses half their life, rounded up.
+
+
+Name: War Elephant
+Combined mana cost: 4.0
+Type: ['Creature']
+Text: Trample; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+
+
+Name: War Elephant
+Combined mana cost: 4.0
+Type: ['Creature']
+Text: Trample; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+
+
+Name: Fishliver Oil
+Combined mana cost: 2.0
+Type: ['Enchantment']
+Text: Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Enchanted creature has islandwalk. (It can't be blocked as long as defending player controls an Island.)
+
+
+Name: Cuombajj Witches
+Combined mana cost: 2.0
+Type: ['Creature']
+Text: {T}: Cuombajj Witches deals 1 damage to any target and 1 damage to any target of an opponent's choice.
+
+
+Name: El-Hajjâj
+Combined mana cost: 3.0
+Type: ['Creature']
+Text: Whenever El-Hajjâj deals damage, you gain that much life.
+
+
+Name: Army of Allah
+Combined mana cost: 3.0
+Type: ['Instant']
+Text: Attacking creatures get +2/+0 until end of turn.
+
+
+Name: Camel
+Combined mana cost: 1.0
+Type: ['Creature']
+Text: Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+As long as Camel is attacking, prevent all damage Deserts would deal to Camel and to creatures banded with Camel.
+
+
+Name: Dandân
+Combined mana cost: 2.0
+Type: ['Creature']
+Text: Dandân can't attack unless defending player controls an Island.
+When you control no Islands, sacrifice Dandân.
+
+
+Name: Fishliver Oil
+Combined mana cost: 2.0
+Type: ['Enchantment']
+Text: Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Enchanted creature has islandwalk. (It can't be blocked as long as defending player controls an Island.)
+
+
+Name: Flying Men
+Combined mana cost: 1.0
+Type: ['Creature']
+Text: Flying
+
+
+Name: Giant Tortoise
+Combined mana cost: 2.0
+Type: ['Creature']
+Text: Giant Tortoise gets +0/+3 as long as it's untapped.
+
+
+Name: Giant Tortoise
+Combined mana cost: 2.0
+Type: ['Creature']
+Text: Giant Tortoise gets +0/+3 as long as it's untapped.
+
+
+Name: Island Fish Jasconius
+Combined mana cost: 7.0
+Type: ['Creature']
+Text: Island Fish Jasconius doesn't untap during your untap step.
+At the beginning of your upkeep, you may pay {U}{U}{U}. If you do, untap Island Fish Jasconius.
+Island Fish Jasconius can't attack unless defending player controls an Island.
+When you control no Islands, sacrifice Island Fish Jasconius.
+
+
+Name: Merchant Ship
+Combined mana cost: 1.0
+Type: ['Creature']
+Text: Merchant Ship can't attack unless defending player controls an Island.
+Whenever Merchant Ship attacks and isn't blocked, you gain 2 life.
+When you control no Islands, sacrifice Merchant Ship.
+
+
+Name: Old Man of the Sea
+Combined mana cost: 3.0
+Type: ['Creature']
+Text: You may choose not to untap Old Man of the Sea during your untap step.
+{T}: Gain control of target creature with power less than or equal to Old Man of the Sea's power for as long as Old Man of the Sea remains tapped and that creature's power remains less than or equal to Old Man of the Sea's power.
+
+
+Name: Serendib Djinn
+Combined mana cost: 4.0
+Type: ['Creature']
+Text: Flying
+At the beginning of your upkeep, sacrifice a land. If you sacrifice an Island this way, Serendib Djinn deals 3 damage to you.
+When you control no lands, sacrifice Serendib Djinn.
+
+
+Name: Serendib Efreet
+Combined mana cost: 3.0
+Type: ['Creature']
+Text: Flying
+At the beginning of your upkeep, Serendib Efreet deals 1 damage to you.
+
+
+Name: Sindbad
+Combined mana cost: 2.0
+Type: ['Creature']
+Text: {T}: Draw a card and reveal it. If it isn't a land card, discard it.
+
+
+Name: Unstable Mutation
+Combined mana cost: 1.0
+Type: ['Enchantment']
+Text: Enchant creature
+Enchanted creature gets +3/+3.
+At the beginning of the upkeep of enchanted creature's controller, put a -1/-1 counter on that creature.
+
+
+Name: Erg Raiders
+Combined mana cost: 2.0
+Type: ['Creature']
+Text: At the beginning of your end step, if Erg Raiders didn't attack this turn, Erg Raiders deals 2 damage to you unless it came under your control this turn.
+
+
+Name: Erg Raiders
+Combined mana cost: 2.0
+Type: ['Creature']
+Text: At the beginning of your end step, if Erg Raiders didn't attack this turn, Erg Raiders deals 2 damage to you unless it came under your control this turn.
+
+
+Name: Guardian Beast
+Combined mana cost: 4.0
+Type: ['Creature']
+Text: As long as Guardian Beast is untapped, noncreature artifacts you control can't be enchanted, they have indestructible, and other players can't gain control of them. This effect doesn't remove Auras already attached to those artifacts.
+
+
+Name: Hasran Ogress
+Combined mana cost: 2.0
+Type: ['Creature']
+Text: Whenever Hasran Ogress attacks, it deals 3 damage to you unless you pay {2}.
+
+
+Name: Hasran Ogress
+Combined mana cost: 2.0
+Type: ['Creature']
+Text: Whenever Hasran Ogress attacks, it deals 3 damage to you unless you pay {2}.
+
+
+Name: Junún Efreet
+Combined mana cost: 3.0
+Type: ['Creature']
+Text: Flying
+At the beginning of your upkeep, sacrifice Junún Efreet unless you pay {B}{B}.
+
+
+Name: Juzám Djinn
+Combined mana cost: 4.0
+Type: ['Creature']
+Text: At the beginning of your upkeep, Juzám Djinn deals 1 damage to you.
+
+
+Name: Khabál Ghoul
+Combined mana cost: 3.0
+Type: ['Creature']
+Text: At the beginning of each end step, put a +1/+1 counter on Khabál Ghoul for each creature that died this turn.
+
+
+Name: Oubliette
+Combined mana cost: 3.0
+Type: ['Enchantment']
+Text: When Oubliette enters the battlefield, target creature phases out until Oubliette leaves the battlefield. Tap that creature as it phases in this way. (Auras and Equipment phase out with it. While permanents are phased out, they're treated as though they don't exist.)
+
+
+Name: Oubliette
+Combined mana cost: 3.0
+Type: ['Enchantment']
+Text: When Oubliette enters the battlefield, target creature phases out until Oubliette leaves the battlefield. Tap that creature as it phases in this way. (Auras and Equipment phase out with it. While permanents are phased out, they're treated as though they don't exist.)
+
+
+Name: Sorceress Queen
+Combined mana cost: 3.0
+Type: ['Creature']
+Text: {T}: Target creature other than Sorceress Queen has base power and toughness 0/2 until end of turn.
+
+
+Name: Stone-Throwing Devils
+Combined mana cost: 1.0
+Type: ['Creature']
+Text: First strike
+
+
+Name: Stone-Throwing Devils
+Combined mana cost: 1.0
+Type: ['Creature']
+Text: First strike
+
+
+Name: Aladdin
+Combined mana cost: 4.0
+Type: ['Creature']
+Text: {1}{R}{R}, {T}: Gain control of target artifact for as long as you control Aladdin.
+
+
+Name: Ali Baba
+Combined mana cost: 1.0
+Type: ['Creature']
+Text: {R}: Tap target Wall.
+
+
+Name: Ali from Cairo
+Combined mana cost: 4.0
+Type: ['Creature']
+Text: Damage that would reduce your life total to less than 1 reduces it to 1 instead.
+
+
+Name: Bird Maiden
+Combined mana cost: 3.0
+Type: ['Creature']
+Text: Flying
+
+
+Name: Bird Maiden
+Combined mana cost: 3.0
+Type: ['Creature']
+Text: Flying
+
+
+Name: Desert Nomads
+Combined mana cost: 3.0
+Type: ['Creature']
+Text: Desertwalk
+Prevent all damage that would be dealt to Desert Nomads by Deserts.
+
+
+Name: Hurr Jackal
+Combined mana cost: 1.0
+Type: ['Creature']
+Text: {T}: Target creature can't be regenerated this turn.
+
+
+Name: Kird Ape
+Combined mana cost: 1.0
+Type: ['Creature']
+Text: Kird Ape gets +1/+2 as long as you control a Forest.
+
+
+Name: Magnetic Mountain
+Combined mana cost: 3.0
+Type: ['Enchantment']
+Text: Blue creatures don't untap during their controllers' untap steps.
+At the beginning of each player's upkeep, that player may choose any number of tapped blue creatures they control and pay {4} for each creature chosen this way. If the player does, untap those creatures.
+
+
+Name: Mijae Djinn
+Combined mana cost: 3.0
+Type: ['Creature']
+Text: Whenever Mijae Djinn attacks, flip a coin. If you lose the flip, remove Mijae Djinn from combat and tap it.
+
+
+Name: Rukh Egg
+Combined mana cost: 4.0
+Type: ['Creature']
+Text: When Rukh Egg dies, create a 4/4 red Bird creature token with flying at the beginning of the next end step.
+
+
+Name: Rukh Egg
+Combined mana cost: 4.0
+Type: ['Creature']
+Text: When Rukh Egg dies, create a 4/4 red Bird creature token with flying at the beginning of the next end step.
+
+
+Name: Ydwen Efreet
+Combined mana cost: 3.0
+Type: ['Creature']
+Text: Whenever Ydwen Efreet blocks, flip a coin. If you lose the flip, remove Ydwen Efreet from combat and it can't block this turn. Creatures it was blocking that had become blocked by only Ydwen Efreet this combat become unblocked.
+
+
+Name: Cyclone
+Combined mana cost: 4.0
+Type: ['Enchantment']
+Text: At the beginning of your upkeep, put a wind counter on Cyclone, then sacrifice Cyclone unless you pay {G} for each wind counter on it. If you pay, Cyclone deals damage equal to the number of wind counters on it to each creature and each player.
+
+
+Name: Desert Twister
+Combined mana cost: 6.0
+Type: ['Sorcery']
+Text: Destroy target permanent.
+
+
+Name: Drop of Honey
+Combined mana cost: 1.0
+Type: ['Enchantment']
+Text: At the beginning of your upkeep, destroy the creature with the least power. It can't be regenerated. If two or more creatures are tied for least power, you choose one of them.
+When there are no creatures on the battlefield, sacrifice Drop of Honey.
+
+
+Name: Erhnam Djinn
+Combined mana cost: 4.0
+Type: ['Creature']
+Text: At the beginning of your upkeep, target non-Wall creature an opponent controls gains forestwalk until your next upkeep. (It can't be blocked as long as defending player controls a Forest.)
+
+
+Name: Ghazbán Ogre
+Combined mana cost: 1.0
+Type: ['Creature']
+Text: At the beginning of your upkeep, if a player has more life than each other player, the player with the most life gains control of Ghazbán Ogre.
+
+
+Name: Ifh-Bíff Efreet
+Combined mana cost: 4.0
+Type: ['Creature']
+Text: Flying
+{G}: Ifh-Bíff Efreet deals 1 damage to each creature with flying and each player. Any player may activate this ability.
+
+
+Name: Metamorphosis
+Combined mana cost: 1.0
+Type: ['Sorcery']
+Text: As an additional cost to cast this spell, sacrifice a creature.
+Add X mana of any one color, where X is 1 plus the sacrificed creature's mana value. Spend this mana only to cast creature spells.
+
+
+Name: Nafs Asp
+Combined mana cost: 1.0
+Type: ['Creature']
+Text: Whenever Nafs Asp deals damage to a player, that player loses 1 life at the beginning of their next draw step unless they pay {1} before that draw step.
+
+
+Name: Nafs Asp
+Combined mana cost: 1.0
+Type: ['Creature']
+Text: Whenever Nafs Asp deals damage to a player, that player loses 1 life at the beginning of their next draw step unless they pay {1} before that draw step.
+
+
+Name: Sandstorm
+Combined mana cost: 1.0
+Type: ['Instant']
+Text: Sandstorm deals 1 damage to each attacking creature.
+
+
+Name: Singing Tree
+Combined mana cost: 4.0
+Type: ['Creature']
+Text: {T}: Target attacking creature has base power 0 until end of turn.
+
+
+Name: Wyluli Wolf
+Combined mana cost: 2.0
+Type: ['Creature']
+Text: {T}: Target creature gets +1/+1 until end of turn.
+
+
+Name: Wyluli Wolf
+Combined mana cost: 2.0
+Type: ['Creature']
+Text: {T}: Target creature gets +1/+1 until end of turn.
+
+
+Name: Aladdin's Lamp
+Combined mana cost: 10.0
+Type: ['Artifact']
+Text: {X}, {T}: The next time you would draw a card this turn, instead look at the top X cards of your library, put all but one of them on the bottom of your library in a random order, then draw a card. X can't be 0.
+
+
+Name: Aladdin's Ring
+Combined mana cost: 8.0
+Type: ['Artifact']
+Text: {8}, {T}: Aladdin's Ring deals 4 damage to any target.
+
+
+Name: Bottle of Suleiman
+Combined mana cost: 4.0
+Type: ['Artifact']
+Text: {1}, Sacrifice Bottle of Suleiman: Flip a coin. If you win the flip, create a 5/5 colorless Djinn artifact creature token with flying. If you lose the flip, Bottle of Suleiman deals 5 damage to you.
+
+
+Name: Brass Man
+Combined mana cost: 1.0
+Type: ['Artifact', 'Creature']
+Text: Brass Man doesn't untap during your untap step.
+At the beginning of your upkeep, you may pay {1}. If you do, untap Brass Man.
+
+
+Name: City in a Bottle
+Combined mana cost: 2.0
+Type: ['Artifact']
+Text: Whenever one or more other nontoken permanents with a name originally printed in the Arabian Nights expansion are on the battlefield, their controllers sacrifice them.
+Players can't cast spells or play lands with a name originally printed in the Arabian Nights expansion.
+
+
+Name: Dancing Scimitar
+Combined mana cost: 4.0
+Type: ['Artifact', 'Creature']
+Text: Flying (This creature can't be blocked except by creatures with flying or reach.)
+
+
+Name: Ebony Horse
+Combined mana cost: 3.0
+Type: ['Artifact']
+Text: {2}, {T}: Untap target attacking creature you control. Prevent all combat damage that would be dealt to and dealt by that creature this turn.
+
+
+Name: Flying Carpet
+Combined mana cost: 4.0
+Type: ['Artifact']
+Text: {2}, {T}: Target creature gains flying until end of turn.
+
+
+Name: Jandor's Ring
+Combined mana cost: 6.0
+Type: ['Artifact']
+Text: {2}, {T}, Discard the last card you drew this turn: Draw a card.
+
+
+Name: Jandor's Saddlebags
+Combined mana cost: 2.0
+Type: ['Artifact']
+Text: {3}, {T}: Untap target creature.
+
+
+Name: Jeweled Bird
+Combined mana cost: 1.0
+Type: ['Artifact']
+Text: Remove Jeweled Bird from your deck before playing if you're not playing for ante.
+{T}: Ante Jeweled Bird. If you do, put all other cards you own from the ante into your graveyard, then draw a card.
+
+
+Name: Pyramids
+Combined mana cost: 6.0
+Type: ['Artifact']
+Text: {2}: Choose one —
+• Destroy target Aura attached to a land.
+• The next time target land would be destroyed this turn, remove all damage marked on it instead.
+
+
+Name: Ring of Ma'rûf
+Combined mana cost: 5.0
+Type: ['Artifact']
+Text: {5}, {T}, Exile Ring of Ma'rûf: The next time you would draw a card this turn, instead put a card you own from outside the game into your hand.
+
+
+Name: Sandals of Abdallah
+Combined mana cost: 4.0
+Type: ['Artifact']
+Text: {2}, {T}: Target creature gains islandwalk until end of turn. When that creature dies this turn, destroy Sandals of Abdallah. (A creature with islandwalk can't be blocked as long as defending player controls an Island.)
+
+
+Name: Bazaar of Baghdad
+Combined mana cost: 0.0
+Type: ['Land']
+Text: {T}: Draw two cards, then discard three cards.
+
+
+Name: City of Brass
+Combined mana cost: 0.0
+Type: ['Land']
+Text: Whenever City of Brass becomes tapped, it deals 1 damage to you.
+{T}: Add one mana of any color.
+
+
+Name: Desert
+Combined mana cost: 0.0
+Type: ['Land']
+Text: {T}: Add {C}.
+{T}: Desert deals 1 damage to target attacking creature. Activate only during the end of combat step.
+
+
+Name: Diamond Valley
+Combined mana cost: 0.0
+Type: ['Land']
+Text: {T}, Sacrifice a creature: You gain life equal to the sacrificed creature's toughness.
+
+
+Name: Elephant Graveyard
+Combined mana cost: 0.0
+Type: ['Land']
+Text: {T}: Add {C}.
+{T}: Regenerate target Elephant.
+
+
+Name: Island of Wak-Wak
+Combined mana cost: 0.0
+Type: ['Land']
+Text: {T}: Target creature with flying has base power 0 until end of turn.
+
+
+Name: Library of Alexandria
+Combined mana cost: 0.0
+Type: ['Land']
+Text: {T}: Add {C}.
+{T}: Draw a card. Activate only if you have exactly seven cards in hand.
+
+
+Name: Mountain
+Combined mana cost: 0.0
+Type: ['Land']
+Text: ({T}: Add {R}.)
+
+
+Name: Oasis
+Combined mana cost: 0.0
+Type: ['Land']
+Text: {T}: Prevent the next 1 damage that would be dealt to target creature this turn.
+
+
+Name: Moorish Cavalry
+Combined mana cost: 4.0
+Type: ['Creature']
+Text: Trample
+
+
+Name: Piety
+Combined mana cost: 3.0
+Type: ['Instant']
+Text: Blocking creatures get +0/+3 until end of turn.
+
+
