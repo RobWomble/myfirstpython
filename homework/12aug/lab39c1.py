@@ -7,9 +7,7 @@ API = "https://api.magicthegathering.io/v1/"
 def main():
 
     setcode = input("What is the code of the set you are trying to lookup? ").lower()
-
-    resp = requests.get(f"{API}cards?set={setcode}") #I made no changes to this line, but now I'm getting
-                                                     #a syntax error on this line.  I'm frustrated.
+    resp = requests.get(f"{API}cards?set={setcode}")
     cards = resp.json()
 
     # the following are how I took forever to parse the data structure
@@ -24,7 +22,7 @@ def main():
         for card in cards['cards']:
             #the way I'm writing this string bothers me, 
             #but I'm in too much of a hurry to do it more cleanly
-            print(f"Name: {card['name']}\nCost: {card['manaCost']}\nType: {card['types']}\nText: {card['text']}\n\n")
+            print(f"Name: {card['name']}\nCombined mana cost: {card['cmc']}\nType: {card['types']}\nText: {card['text']}\n\n")
 
 if __name__ == "__main__":
     main()
