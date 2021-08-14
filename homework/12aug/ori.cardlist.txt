@@ -1,0 +1,252 @@
+Name: Akroan Jailer
+Combined mana cost: 1.0
+Type: ['Creature']
+Text: {2}{W}, {T}: Tap target creature.
+
+
+Name: Ampryn Tactician
+Combined mana cost: 4.0
+Type: ['Creature']
+Text: When Ampryn Tactician enters the battlefield, creatures you control get +1/+1 until end of turn.
+
+
+Name: Anointer of Champions
+Combined mana cost: 1.0
+Type: ['Creature']
+Text: {T}: Target attacking creature gets +1/+1 until end of turn.
+
+
+Name: Archangel of Tithes
+Combined mana cost: 4.0
+Type: ['Creature']
+Text: FlyingAs long as Archangel of Tithes is untapped, creatures can't attack you or a planeswalker you control unless their controller pays {1} for each of those creatures.As long as Archangel of Tithes is attacking, creatures can't block unless their controller pays {1} for each of those creatures.
+
+
+Name: Auramancer
+Combined mana cost: 3.0
+Type: ['Creature']
+Text: When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.
+
+
+Name: Aven Battle Priest
+Combined mana cost: 6.0
+Type: ['Creature']
+Text: Flying (This creature can't be blocked except by creatures with flying or reach.)When Aven Battle Priest enters the battlefield, you gain 3 life.
+
+
+Name: Blessed Spirits
+Combined mana cost: 3.0
+Type: ['Creature']
+Text: FlyingWhenever you cast an enchantment spell, put a +1/+1 counter on Blessed Spirits.
+
+
+Name: Celestial Flare
+Combined mana cost: 2.0
+Type: ['Instant']
+Text: Target player sacrifices an attacking or blocking creature.
+
+
+Name: Charging Griffin
+Combined mana cost: 4.0
+Type: ['Creature']
+Text: Flying (This creature can't be blocked except by creatures with flying or reach.)Whenever Charging Griffin attacks, it gets +1/+1 until end of turn.
+
+
+Name: Cleric of the Forward Order
+Combined mana cost: 2.0
+Type: ['Creature']
+Text: When Cleric of the Forward Order enters the battlefield, you gain 2 life for each creature you control named Cleric of the Forward Order.
+
+
+Name: Consul's Lieutenant
+Combined mana cost: 2.0
+Type: ['Creature']
+Text: First strikeRenown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)Whenever Consul's Lieutenant attacks, if it's renowned, other attacking creatures you control get +1/+1 until end of turn.
+
+
+Name: Enlightened Ascetic
+Combined mana cost: 2.0
+Type: ['Creature']
+Text: When Enlightened Ascetic enters the battlefield, you may destroy target enchantment.
+
+
+Name: Enshrouding Mist
+Combined mana cost: 1.0
+Type: ['Instant']
+Text: Target creature gets +1/+1 until end of turn. Prevent all damage that would be dealt to it this turn. If it's renowned, untap it.
+
+
+Name: Gideon's Phalanx
+Combined mana cost: 7.0
+Type: ['Instant']
+Text: Put four 2/2 white Knight creature tokens with vigilance onto the battlefield.Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, creatures you control gain indestructible until end of turn.
+
+
+Name: Grasp of the Hieromancer
+Combined mana cost: 2.0
+Type: ['Enchantment']
+Text: Enchant creatureEnchanted creature gets +1/+1 and has "Whenever this creature attacks, tap target creature defending player controls."
+
+
+Name: Hallowed Moonlight
+Combined mana cost: 2.0
+Type: ['Instant']
+Text: Until end of turn, if a creature would enter the battlefield and it wasn't cast, exile it instead.Draw a card.
+
+
+Name: Healing Hands
+Combined mana cost: 3.0
+Type: ['Sorcery']
+Text: Target player gains 4 life.Draw a card.
+
+
+Name: Heavy Infantry
+Combined mana cost: 5.0
+Type: ['Creature']
+Text: When Heavy Infantry enters the battlefield, tap target creature an opponent controls.
+
+
+Name: Hixus, Prison Warden
+Combined mana cost: 5.0
+Type: ['Creature']
+Text: Flash (You may cast this spell any time you could cast an instant.)Whenever a creature deals combat damage to you, if Hixus, Prison Warden entered the battlefield this turn, exile that creature until Hixus leaves the battlefield. (That creature returns under its owner's control.)
+
+
+Name: Knight of the Pilgrim's Road
+Combined mana cost: 3.0
+Type: ['Creature']
+Text: Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)
+
+
+Name: Knight of the White Orchid
+Combined mana cost: 2.0
+Type: ['Creature']
+Text: First strikeWhen Knight of the White Orchid enters the battlefield, if an opponent controls more lands than you, you may search your library for a Plains card, put it onto the battlefield, then shuffle your library.
+
+
+Name: Knightly Valor
+Combined mana cost: 5.0
+Type: ['Enchantment']
+Text: Enchant creatureWhen Knightly Valor enters the battlefield, put a 2/2 white Knight creature token with vigilance onto the battlefield. (Attacking doesn't cause it to tap.)Enchanted creature gets +2/+2 and has vigilance.
+
+
+Name: Kytheon, Hero of Akros // Gideon, Battle-Forged
+Combined mana cost: 1.0
+Type: ['Creature']
+Text: At end of combat, if Kytheon, Hero of Akros and at least two other creatures attacked this combat, exile Kytheon, then return him to the battlefield transformed under his owner's control.{2}{W}: Kytheon gains indestructible until end of turn.
+
+
+Name: Kytheon, Hero of Akros // Gideon, Battle-Forged
+Combined mana cost: 1.0
+Type: ['Planeswalker']
+Text: +2: Up to one target creature an opponent controls attacks Gideon, Battle-Forged during its controller's next turn if able.+1: Until your next turn, target creature gains indestructible. Untap that creature.0: Until end of turn, Gideon, Battle-Forged becomes a 4/4 Human Soldier creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.
+
+
+Name: Kytheon's Irregulars
+Combined mana cost: 4.0
+Type: ['Creature']
+Text: Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.){W}{W}: Tap target creature.
+
+
+Name: Kytheon's Tactics
+Combined mana cost: 3.0
+Type: ['Sorcery']
+Text: Creatures you control get +2/+1 until end of turn.Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, those creatures also gain vigilance until end of turn. (Attacking doesn't cause them to tap.)
+
+
+Name: Mighty Leap
+Combined mana cost: 2.0
+Type: ['Instant']
+Text: Target creature gets +2/+2 and gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)
+
+
+Name: Murder Investigation
+Combined mana cost: 2.0
+Type: ['Enchantment']
+Text: Enchant creature you controlWhen enchanted creature dies, put X 1/1 white Soldier creature tokens onto the battlefield, where X is its power.
+
+
+Name: Patron of the Valiant
+Combined mana cost: 5.0
+Type: ['Creature']
+Text: FlyingWhen Patron of the Valiant enters the battlefield, put a +1/+1 counter on each creature you control with a +1/+1 counter on it.
+
+
+Name: Relic Seeker
+Combined mana cost: 2.0
+Type: ['Creature']
+Text: Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)When Relic Seeker becomes renowned, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle your library.
+
+
+Name: Sentinel of the Eternal Watch
+Combined mana cost: 6.0
+Type: ['Creature']
+Text: Vigilance (Attacking doesn't cause this creature to tap.)At the beginning of combat on each opponent's turn, tap target creature that player controls.
+
+
+Name: Sigil of the Empty Throne
+Combined mana cost: 5.0
+Type: ['Enchantment']
+Text: Whenever you cast an enchantment spell, put a 4/4 white Angel creature token with flying onto the battlefield.
+
+
+Name: Stalwart Aven
+Combined mana cost: 3.0
+Type: ['Creature']
+Text: Flying (This creature can't be blocked except by creatures with flying or reach.)Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)
+
+
+Name: Starfield of Nyx
+Combined mana cost: 5.0
+Type: ['Enchantment']
+Text: At the beginning of your upkeep, you may return target enchantment card from your graveyard to the battlefield.As long as you control five or more enchantments, each other non-Aura enchantment you control is a creature in addition to its other types and has base power and base toughness each equal to its converted mana cost.
+
+
+Name: Suppression Bonds
+Combined mana cost: 4.0
+Type: ['Enchantment']
+Text: Enchant nonland permanentEnchanted permanent can't attack or block, and its activated abilities can't be activated.
+
+
+Name: Swift Reckoning
+Combined mana cost: 2.0
+Type: ['Sorcery']
+Text: Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, you may cast Swift Reckoning as though it had flash. (You may cast it any time you could cast an instant.)Destroy target tapped creature.
+
+
+Name: Topan Freeblade
+Combined mana cost: 2.0
+Type: ['Creature']
+Text: Vigilance (Attacking doesn't cause this creature to tap.)Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)
+
+
+Name: Totem-Guide Hartebeest
+Combined mana cost: 5.0
+Type: ['Creature']
+Text: When Totem-Guide Hartebeest enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle your library.
+
+
+Name: Tragic Arrogance
+Combined mana cost: 5.0
+Type: ['Sorcery']
+Text: For each player, you choose from among the permanents that player controls an artifact, a creature, an enchantment, and a planeswalker. Then each player sacrifices all other nonland permanents he or she controls.
+
+
+Name: Valor in Akros
+Combined mana cost: 4.0
+Type: ['Enchantment']
+Text: Whenever a creature enters the battlefield under your control, creatures you control get +1/+1 until end of turn.
+
+
+Name: Vryn Wingmare
+Combined mana cost: 3.0
+Type: ['Creature']
+Text: FlyingNoncreature spells cost {1} more to cast.
+
+
+Name: War Oracle
+Combined mana cost: 4.0
+Type: ['Creature']
+Text: Lifelink (Damage dealt by this creature also causes you to gain that much life.)Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)
+
+

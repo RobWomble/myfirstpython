@@ -1,0 +1,97 @@
+Name: Angel of Mercy
+Combined mana cost: 5.0
+Type: ['Creature']
+Text: Flying
+When Angel of Mercy enters the battlefield, you gain 3 life.
+
+
+Name: Angelic Page
+Combined mana cost: 2.0
+Type: ['Creature']
+Text: Flying
+{T}: Target attacking or blocking creature gets +1/+1 until end of turn.
+
+
+Name: Ardent Militia
+Combined mana cost: 5.0
+Type: ['Creature']
+Text: Vigilance
+
+
+Name: Avatar of Hope
+Combined mana cost: 8.0
+Type: ['Creature']
+Text: If you have 3 or less life, this spell costs {6} less to cast.
+Flying
+Avatar of Hope can block any number of creatures.
+
+
+Name: Aven Cloudchaser
+Combined mana cost: 4.0
+Type: ['Creature']
+Text: Flying (This creature can't be blocked except by creatures with flying or reach.)
+When Aven Cloudchaser enters the battlefield, destroy target enchantment.
+
+
+Name: Aven Flock
+Combined mana cost: 5.0
+Type: ['Creature']
+Text: Flying (This creature can't be blocked except by creatures with flying or reach.)
+{W}: Aven Flock gets +0/+1 until end of turn.
+
+
+Name: Blessed Reversal
+Combined mana cost: 2.0
+Type: ['Instant']
+Text: You gain 3 life for each creature attacking you.
+
+
+Name: Blinding Angel
+Combined mana cost: 5.0
+Type: ['Creature']
+Text: Flying (This creature can't be blocked except by creatures with flying or reach.)
+Whenever Blinding Angel deals combat damage to a player, that player skips their next combat phase.
+
+
+Name: Chastise
+Combined mana cost: 4.0
+Type: ['Instant']
+Text: Destroy target attacking creature. You gain life equal to its power.
+
+
+Name: Circle of Protection: Black
+Combined mana cost: 2.0
+Type: ['Enchantment']
+Text: {1}: The next time a black source of your choice would deal damage to you this turn, prevent that damage.
+
+
+Name: Circle of Protection: Blue
+Combined mana cost: 2.0
+Type: ['Enchantment']
+Text: {1}: The next time a blue source of your choice would deal damage to you this turn, prevent that damage.
+
+
+Name: Circle of Protection: Green
+Combined mana cost: 2.0
+Type: ['Enchantment']
+Text: {1}: The next time a green source of your choice would deal damage to you this turn, prevent that damage.
+
+
+Name: Circle of Protection: Red
+Combined mana cost: 2.0
+Type: ['Enchantment']
+Text: {1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage.
+
+
+Name: Circle of Protection: White
+Combined mana cost: 2.0
+Type: ['Enchantment']
+Text: {1}: The next time a white source of your choice would deal damage to you this turn, prevent that damage.
+
+
+Name: Glorious Anthem
+Combined mana cost: 3.0
+Type: ['Enchantment']
+Text: Creatures you control get +1/+1.
+
+
