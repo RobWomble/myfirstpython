@@ -1,0 +1,21 @@
+---
+- name: playing with random filter
+  hosts: localhost
+  gather_facts: False
+
+  vars:
+    random_object:
+    - "banana"
+    - "hammer"
+    - "shoehorn"
+    - "bottle"
+    - "fig newton"
+    - "tissue box"
+    - "spatula"
+    - "can of Monster® energy drink"
+
+  tasks:
+
+  - name: debug a random object
+    debug:
+      msg: "You've found a {{ random_object | random }}"
