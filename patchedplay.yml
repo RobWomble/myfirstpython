@@ -1,0 +1,7 @@
+---
+- name: cp and execute unique patches
+  hosts: planetexpress:!farnsworth:!zoidberg
+
+  tasks:
+  file:
+    state: directory
