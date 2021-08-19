@@ -3,5 +3,33 @@
   hosts: planetexpress:!farnsworth:!zoidberg
 
   tasks:
-  file:
-    state: directory
+  - name: Create directory
+    file:
+      state: directory
+      path: ~/patches/
+
+  - name: download patch file
+    get_url:
+      url: "https://static.alta3.com/files/napya/{{ inventory_hostname }}patch.py"
+      dest: "~/patches"
+
+  - name: Install pip and pip3
+    apt:
+      name:
+        - python3-pip
+        - python-pip
+    become: yes
+  - name: install prereq on target hosts
+    pip:
+      name: pexpect
+    become: yes
+
+  - name: run patch script
+    expect:
+      command: "python3 /home/{{ inventory_hostname }}/patches/{{ inventory_hostname }}patch.py"
+      responses:
+        What:
+          - "{{ ansible_user }}"
+          - 10.10.70.55
+          - TakeYourDataAndDoubleIt
+          - "{{ ansible_host }}"
